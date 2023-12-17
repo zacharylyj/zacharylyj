@@ -6,7 +6,7 @@ I enjoy learning new things, so if you have a fun trival drop me a message!
 
 Hobbies include, Reading, Gaming, Watching and Criticing shows, Rock Climbing
 
-Currently working on: [Link](https://api.github.com/users/zacharylyj/events/public)
+Currently working on: Lofi generator
 
 ## Links
 [__Resume__](https://drive.google.com/file/d/1OoSqrcIxtsRbbcVuV0IW1UuwQsP7kQG0/view?usp=sharing)
@@ -21,7 +21,6 @@ Currently working on: [Link](https://api.github.com/users/zacharylyj/events/publ
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacharylyj&theme=bear&exclude_repo=Chew-sy)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Zachary's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacharylyj&show_icons=true&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Thanks for stopping by!
