@@ -1,4 +1,4 @@
-## Heyo! <img src="./content/wave.gif" width="20">
+## Heyo! <img src="content/wave.gif" width="20">
 
 I'm Zachary. I'm currently Year 2 Singapore Polytechnic Student pursuing a diploma in Applied AI & Analytics
 
