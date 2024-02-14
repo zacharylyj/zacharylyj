@@ -6,7 +6,6 @@ I enjoy learning new things, so if you have a fun trival drop me a message!
 
 Hobbies include, Reading, Gaming, Watching and Criticing shows, Rock Climbing
 
-Currently working on: Lofi generator
 
 ## Links
 [__Resume__](https://drive.google.com/file/d/1OoSqrcIxtsRbbcVuV0IW1UuwQsP7kQG0/view?usp=sharing)
