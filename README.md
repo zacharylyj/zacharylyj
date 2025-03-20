@@ -4,7 +4,18 @@ I'm Zachary. I'm currently Year 3 Singapore Polytechnic Student pursuing a diplo
 
 I enjoy learning new things, so if you have a fun trival drop me a message!
 
-Hobbies include, Reading, Gaming, Watching and Criticing shows, Rock Climbing
+
+Outdoors:
+- Annapurna circuit (5,416 meters)
+- Langtang Kyanjin Gompa (3,870 meters)
+- Bouldering V6 (I love Slabs)
+
+
+Gaming:
+- Top 0.5% in Minecraft Hypixel Networth
+- Top 15% in Valorant
+- Top 15% in Marvel Rivals
+- Top 20% in R6
 
 
 ## Links
