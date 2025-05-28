@@ -1,6 +1,6 @@
 ## Heyo! <img src="./Content\wave.gif" width="25">
 
-I'm Zachary. I'm currently Year 3 Singapore Polytechnic Student pursuing a diploma in Applied AI & Analytics
+I'm Zachary. A hobby programmer with a Diploma in Applied AI & Analytics
 
 I enjoy learning new things, so if you have a fun trival drop me a message!
 
