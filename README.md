@@ -15,7 +15,7 @@ Gaming:
 - Top 0.5% in Minecraft Hypixel Networth
 - Top 15% in Valorant
 - Top 15% in Marvel Rivals
-- Top 20% in R6
+- Top 15% in R6
 
 
 ## Links
