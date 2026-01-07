@@ -12,10 +12,12 @@ Outdoors:
 
 
 Gaming:
-- Top 0.5% in Minecraft Hypixel Networth
-- Top 15% in Valorant
-- Top 15% in Marvel Rivals
-- Top 15% in R6
+- Currently Finishing Factorio
+- Former Top 0.5% in Minecraft Hypixel Networth
+- Former Top 10% in Valorant
+- Former Top 10% in R6
+- Former Top 15% in Marvel Rivals
+
 
 
 ## Links
