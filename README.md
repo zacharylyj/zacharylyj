@@ -32,7 +32,7 @@ Gaming:
 ## Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/zacweee?ext=contest)](https://leetcode.com/zacweee/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacharyly)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacharyly)](https://github.com/zacharyly/github-readme-stats)
 
 
 ## Thanks for stopping by!
